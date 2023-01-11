@@ -1,5 +1,5 @@
 <h2>TodoApp.NTier.Architecture</h2>
- <h4>Asp.Net Core ile Çok Katmanlı Mimari ile uygulayarak öğrendiğim kavramlar </h4>
+ <h4>Todo App Uygulamasında Asp.Net Core ile Çok Katmanlı Mimari uygulayarak kendimi geliştirdiğim konu ve kavramlar şu şekilde : </h4>
  -N Tier Architecture (Çok Katmanlı Mimari)<br>
  -Entity Framework Core<br>
  -Crud Metotlar<br>
